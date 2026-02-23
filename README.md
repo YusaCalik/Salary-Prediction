@@ -21,7 +21,7 @@ Check out the blog post: Predicting Developer Salaries: What Matters Most
 
 How to run
 Download the CSV.
-Open Project_Final.ipynb.
+Open Proje_Final.ipynb.
 Edit the line CSV_PATH = '/survey_results_public.csv.csv' and run the code
 Technology Requirements
 pandas, numpy, scikit-learn, matplotlib, seaborn
